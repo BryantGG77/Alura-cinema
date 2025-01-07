@@ -1,0 +1,50 @@
+.cabecera {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.1em 1.1em;
+    background-color: var(--negro);
+}
+
+a {
+    text-decoration: none;
+}
+
+.logoContainer {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.cabecera img {
+    align-self: start;
+}
+
+.cabecera span {
+    align-self: end;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: white;
+    margin-left: 8px;
+    font-size: 1.5rem;
+}
+
+.cabecera nav {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (min-width: 768px) {
+    .cabecera {
+        flex-direction: row;
+        padding: 1.1em 10em;
+    }
+
+    .cabecera nav {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
