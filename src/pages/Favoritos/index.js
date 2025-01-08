@@ -8,7 +8,7 @@ const Favoritos = () => {
     const { favorito } = useFavoritosContext()
     return (
         <>
-            <Banner img="favoritos" color="#154580" />
+            <Banner img="favoritos" color="#118040" />
             <Titulo>
                 <h1>Favoritos</h1>
             </Titulo>

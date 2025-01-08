@@ -1,0 +1,21 @@
+.container {
+    width: 100%;
+}
+
+.text_error {
+    width: 100%;
+    margin: 0 auto;
+    font-size: 2em;
+}
+
+.error {
+    margin: 0 auto;
+    font-size: 4em;
+    color: #f44336;
+}
+
+@media (min-width: 768px) {
+    .error {
+        font-size: 12em;
+    }
+}
