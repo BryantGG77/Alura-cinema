@@ -1,6 +1,6 @@
 # 🖥️ Alura Cinema
 
-Alura Cinema es un proyecto desarrollado como parte de mi formación en Alura Latam. Este proyecto simula una plataforma para guardar tus videos favoritos y poder reproducirlos cada que desees, combinando HTML, CSS y JavaScript puro para crear una experiencia interactiva y funcional.
+Alura Cinema es un proyecto desarrollado como parte de mi formación en Alura Latam. Este proyecto simula una plataforma para guardar tus videos favoritos y poder reproducirlos cada que desees, utilizando Create React App para crear una intefaz interactiva y funcional.
 
 Entre las características principales se encuentran:
 
