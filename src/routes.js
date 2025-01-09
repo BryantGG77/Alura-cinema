@@ -1,7 +1,7 @@
-import Favoritos from "pages/Favoritos";
-import Player from "pages/Player";
-import { NotFound } from "pages/NotFound";
-import PaginaBase from "pages/PaginaBase";
+import Favoritos from "pages/Favoritos/index";
+import Player from "pages/Player/index";
+import { NotFound } from "pages/NotFound/index";
+import PaginaBase from "pages/PaginaBase/index";
 
 const { default: Inicio } = require("pages/Inicio");
 const { BrowserRouter, Routes, Route } = require("react-router-dom");
