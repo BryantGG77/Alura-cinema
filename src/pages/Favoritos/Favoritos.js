@@ -1,7 +1,7 @@
-import Banner from "components/Banner/index"
+import Banner from "components/Banner/Banner"
 import styles from "./Favoritos.module.css"
-import Titulo from "components/Titulo/index"
-import Card from "components/Card/index"
+import Titulo from "components/Titulo/Titulo"
+import Card from "components/Card/Card"
 import { useFavoritosContext } from "context/Favoritos"
 const Favoritos = () => {
 
