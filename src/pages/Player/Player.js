@@ -1,8 +1,8 @@
-import Banner from 'components/Banner/Banner';
+import Banner from 'components/Banner/Banner.js';
 import styles from './Player.module.css';
-import Titulo from 'components/Titulo/Titulo';
+import Titulo from 'components/Titulo/Titulo.js';
 import { useParams } from 'react-router-dom';
-import { NotFound } from 'pages/NotFound/NotFound';
+import { NotFound } from 'pages/NotFound/NotFound.js';
 import { useEffect, useState } from 'react';
 const Player = () => {
 

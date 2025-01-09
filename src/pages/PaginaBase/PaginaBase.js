@@ -1,7 +1,7 @@
-import Cabecera from "components/Cabecera/Cabecera"
-import Container from "components/Container/Container"
-import Pie from "components/Pie/Pie"
-import FavoritoProvider from "context/Favoritos"
+import Cabecera from "components/Cabecera/Cabecera.js"
+import Container from "components/Container/Container.js"
+import Pie from "components/Pie/Pie.js"
+import FavoritoProvider from "context/Favoritos.js"
 import { Outlet } from "react-router-dom"
 
 const PaginaBase = () => {

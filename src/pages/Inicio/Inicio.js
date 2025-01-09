@@ -1,7 +1,7 @@
 import styles from "./index.module.css"
-import Banner from "components/Banner/Banner";
-import Card from "components/Card/Card";
-import Titulo from "components/Titulo/Titulo";
+import Banner from "components/Banner/Bannerjs";
+import Card from "components/Card/Cardjs";
+import Titulo from "components/Titulo/Titulojs";
 import { useEffect, useState } from "react";
 
 function Inicio() {
