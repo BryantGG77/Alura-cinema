@@ -1,5 +1,5 @@
 import styles from "./index.module.css"
-import Banner from "components/Banner";
+import Banner from "components/Banner/Banner";
 import Card from "components/Card";
 import Titulo from "components/Titulo";
 import { useEffect, useState } from "react";
