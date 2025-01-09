@@ -1,12 +1,12 @@
 # 🖥️ Alura Cinema
 
-Alura Cinema es un proyecto desarrollado como parte de mi formación en Alura Latam. Este proyecto simula una plataforma de reserva de asientos para un cine, combinando HTML, CSS y JavaScript puro para crear una experiencia interactiva y funcional.
+Alura Cinema es un proyecto desarrollado como parte de mi formación en Alura Latam. Este proyecto simula una plataforma para guardar tus videos favoritos y poder reproducirlos cada que desees, combinando HTML, CSS y JavaScript puro para crear una experiencia interactiva y funcional.
 
 Entre las características principales se encuentran:
 
-    Selección interactiva de asientos: Los usuarios pueden elegir asientos disponibles, marcándolos como reservados.
-    Responsividad: Diseño optimizado para diferentes dispositivos, desde móviles hasta pantallas grandes.
-    Lógica dinámica: Uso de JavaScript para gestionar el estado de los asientos y mostrar los costos en tiempo real.
+- Selección interactiva de videos: Los usuarios pueden elegir sus videos favoritos, permitiendo asi validarlos desde otra sección unicamente para sus videos favoritos.
+- Responsividad: Diseño optimizado para diferentes dispositivos, desde móviles hasta pantallas grandes.
+- Lógica dinámica: Uso de JavaScript para gestionar el estado de los asientos y mostrar los costos en tiempo real.
 
 Este proyecto no solo me permitió mejorar mis habilidades en desarrollo web, sino también profundizar en la manipulación del DOM, diseño responsivo y lógica de programación. Es una muestra de cómo las pequeñas interacciones pueden transformar una simple interfaz en una herramienta intuitiva y atractiva para los usuarios.
 
@@ -46,7 +46,7 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
 ## 🛠️ Tecnologías Utilizadas
 
 - React.js
-- Styled components
+- Css modules
 - Hooks avanzados de React
 
 ## 🎨 Vista Previa
